@@ -1,5 +1,5 @@
 # ImageAgent
-## Please copy the following code into your IDE, and run it to get the fig_main_arch_v2.jpg.
+## Please copy the following code into your IDE, and run it to get the fig_main_arch_v2.jpg:
 
 ```
 import base64
